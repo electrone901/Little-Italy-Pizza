@@ -1,0 +1,45 @@
+.title{
+  font-family: 'Cookie',cursive;
+  font-size: 70pt;
+  line-height: 0.8em;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+.pizza-name{
+  font-size: 2.75rem;
+  text-transform: initial;
+  margin-bottom: 8px;
+  line-height: 1;
+  color: #000;
+  font-family: "HCo Knockout 49","HelveticaNeue-CondensedBold","Arial Narrow",Arial,sans-serif;
+  font-weight: normal;
+}
+
+.price {
+  font-size: 2.75rem;
+  text-transform: initial;
+  margin-bottom: 8px;
+  line-height: 1;
+  color: #000;
+  font-family: "HCo Knockout 49","HelveticaNeue-CondensedBold","Arial Narrow",Arial,sans-serif;
+  font-weight: normal;
+}
+
+#order-button {
+  background-color: #62a710;
+}
+
+.calories {
+  color: #AB131B;
+  font-size: xx-large;
+}
+
+
+#images {
+    transition: all .5s ease;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}

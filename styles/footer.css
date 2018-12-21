@@ -1,0 +1,11 @@
+.page-footer {
+    background-color: #AB131B;
+    text-align: center!important;
+    flex-direction: column;
+}
+.social-footer {
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-top: 20px;
+    color: white;
+}
